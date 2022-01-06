@@ -1,2 +1,2 @@
-# SelfDrivingCar
-A Self Driving Car Simulation using a Convolutional Neural Network (CNN)
+# Lane Detector
+This is a lane detector using OpenCV2
